@@ -43,7 +43,7 @@ class TwigUsortPlugin extends BasePlugin
      */
     public function getDocumentationUrl()
     {
-        return 'https://github.com/fuelintegrated/twigusort/blob/master/README.md';
+        return 'https://github.com/roberttolton/twigusort/blob/master/README.md';
     }
 
     /**
@@ -51,7 +51,7 @@ class TwigUsortPlugin extends BasePlugin
      */
     public function getReleaseFeedUrl()
     {
-        return 'https://raw.githubusercontent.com/fuelintegrated/twigusort/master/releases.json';
+        return 'https://raw.githubusercontent.com/roberttolton/twigusort/master/releases.json';
     }
 
     /**
